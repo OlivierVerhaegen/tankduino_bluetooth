@@ -4,3 +4,5 @@
 3. Verbind met de arduino.
 4. Sturen met de joystick.
 5. Andere knop niet gebruiken.
+
+![Screen](screen.jpg)
